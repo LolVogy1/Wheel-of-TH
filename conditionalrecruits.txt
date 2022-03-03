@@ -1,0 +1,6 @@
+Edelgard,be,Female,Yes
+Hubert,be,Male,Yes
+Jeritza,be,Male,Yes
+Dimitri,bl,Male,Yes
+Dedue,bl,Male,Yes
+Claude,gd,Male,Yes
