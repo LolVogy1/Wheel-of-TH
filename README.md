@@ -1,9 +1,10 @@
 # Wheel-of-TH
-A program to create a random Fire Emblem: Three Houses lineup 
+A program to create a random Fire Emblem: Three Houses lineup .
 
-The program decides what route to play and generates your lineup accordingly
+The program decides what route to play and generates your lineup accordingly.
 
 Rules:
+
 The default setting uses the units from your house and gives a random advanced/special/master class to each unit.
 
 Units can only be given classes they can actually use (males can't be given falcon knight, for example).
